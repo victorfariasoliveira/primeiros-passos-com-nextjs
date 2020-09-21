@@ -39,8 +39,6 @@ Rota  |  Descrição
 `PUT /cats`  | This is a route to update a cat.
 `DELETE /cats`  | This route fetches the user with the id passed in the parameters and deletes it.
 
-<br/>
-
 ## Test
 
 ```bash
@@ -53,16 +51,6 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
 
