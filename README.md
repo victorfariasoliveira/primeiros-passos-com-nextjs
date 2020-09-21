@@ -27,20 +27,6 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
 ## Routes
 
 The api has some routes available, in this document you can find out what these routes are and a brief example of how to use them.
@@ -58,6 +44,19 @@ Rota  |  Descrição
 `DELETE /cats`  | This route fetches the user with the id passed in the parameters and deletes it.
 
 <br/>
+
+## Test
+
+```bash
+# unit tests
+$ npm run test
+
+# e2e tests
+$ npm run test:e2e
+
+# test coverage
+$ npm run test:cov
+```
 
 ## Support
 
